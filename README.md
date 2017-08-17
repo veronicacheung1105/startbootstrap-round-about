@@ -1,5 +1,7 @@
 # [Start Bootstrap](http://startbootstrap.com/) - [Round About](http://startbootstrap.com/template-overviews/round-about/)
 
+**WARNING: This is a legacy verison of this template and is no longer actively developed. To view the most recent version, visit the master branch of this repo!**
+
 [Round About](http://startbootstrap.com/template-overviews/round-about/) is an about page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
